@@ -14,3 +14,5 @@ It contains two or more devices connected in full-duplex mode. Each device has a
 * Electronic Buzzer
 * DFROBOT 1602 LCD Keypad Shield for Arduino
 * NRF24L01 Wireless Transceiver Module+2.4GHz
+
+
